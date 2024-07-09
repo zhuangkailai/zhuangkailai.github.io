@@ -21,11 +21,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "homepage.png" # e.g. "my-avatar.jpg", "/images/my-avatar.jpg"
-  name             : "Your Sidebar Name"
+  avatar           : "homepage.png" 
+  name             : "Kailai Zhuang (庄开来)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "简短的博客介绍，可以提示每个页面的内容"
+  location         : "Beijing-China"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
