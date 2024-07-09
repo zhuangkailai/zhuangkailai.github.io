@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png" 
   name             : "Kailai Zhuang (庄开来)"
   pronouns         : # example: "she/her"  
-  bio              : "简短的博客介绍\n可以提示每个页面的内容\n点击CV(简历)查看个人简历"
+  bio              : "简短的博客介绍<br>可以提示每个页面的内容\n点击CV(简历)查看个人简历"
   location         : "Beijing-China"
   employer         : "Red Brick University"
   uri              : # URL
